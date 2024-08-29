@@ -12,17 +12,18 @@
 
 <h2>📜 Certifications</h2>
 
+- [CompTIA Security+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Google Cybersecurity Certificate](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [ISC2 Certified in Cybersecurity](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [SCRUMstudy Scrum Fundamentals Certified](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Google IT Support Professional](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Lynndell Blunt-Gardiner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Lynndell Blunt-Gardiner | Credly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][credly]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[credly]: https://www.credly.com/users/lsgardiner
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
