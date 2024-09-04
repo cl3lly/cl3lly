@@ -12,7 +12,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [CompTIA Security+]([https://www.youtube.com/watch?v=uHy3oM7NnoU](https://drive.google.com/file/d/14fGXJnaA9hWp4IFN1PSB9daxtB1_Zcjh/view?usp=sharing))
+- [CompTIA Security+](https://drive.google.com/file/d/14fGXJnaA9hWp4IFN1PSB9daxtB1_Zcjh/view?usp=sharing)
 - [Google Cybersecurity Certificate](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [ISC2 Certified in Cybersecurity](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [SCRUMstudy Scrum Fundamentals Certified](https://www.youtube.com/watch?v=uHy3oM7NnoU)
